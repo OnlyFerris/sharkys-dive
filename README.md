@@ -1,5 +1,7 @@
 # Sharky’s Dive: Tides of Adventure
 
+![Sharky](graphics/IMG_1390.webp)
+
 **Sharky’s Dive: Tides of Adventure** invites you to dive into an exciting underwater escapade alongside Sharky, the tooth-brushing superhero shark. 
 
 Explore the depths of the ocean, encountering sunken treasures, vibrant coral reefs, and mysterious caves filled with surprises. 
